@@ -1,0 +1,6 @@
+c:\users\chenchuen\documents\visual studio 2015\Projects\WindowsAssignment\WindowsAssignment\bin\Debug\WindowsAssignment.exe.config
+c:\users\chenchuen\documents\visual studio 2015\Projects\WindowsAssignment\WindowsAssignment\bin\Debug\WindowsAssignment.exe
+c:\users\chenchuen\documents\visual studio 2015\Projects\WindowsAssignment\WindowsAssignment\bin\Debug\WindowsAssignment.pdb
+c:\users\chenchuen\documents\visual studio 2015\Projects\WindowsAssignment\WindowsAssignment\obj\Debug\WindowsAssignment.exe
+c:\users\chenchuen\documents\visual studio 2015\Projects\WindowsAssignment\WindowsAssignment\obj\Debug\WindowsAssignment.pdb
+c:\users\chenchuen\documents\visual studio 2015\Projects\WindowsAssignment\WindowsAssignment\obj\Debug\WindowsAssignment.csprojResolveAssemblyReference.cache
